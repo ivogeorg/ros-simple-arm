@@ -1,1 +1,0 @@
-# ros-simple-arm
